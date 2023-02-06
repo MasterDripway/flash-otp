@@ -1,3 +1,4 @@
+cd flash-otp
 cargo check
 cargo build --release
 cp ./target/release/flash-otp .
