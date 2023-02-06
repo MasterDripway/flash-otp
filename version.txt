@@ -1,1 +1,3 @@
-1.0.0
+1.0.0 
+https://raw.githubusercontent.com/MasterDripway/flash-otp/master/version.txt 
+https://github.com/MasterDripway/flash-otp.git
